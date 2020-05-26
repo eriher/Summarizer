@@ -7,6 +7,8 @@ Paper: https://hdl.handle.net/20.500.12380/300719
 
 This repo contains code for the project.
 
+Building on work by: https://github.com/nlpyang/BertSum and https://github.com/huggingface/transformers
+
 ## Requirements
 PyTorch
 

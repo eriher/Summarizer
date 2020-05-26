@@ -1,5 +1,7 @@
 # Summarizer
-Automatic Text Summarization using pre-trained language models. A Master Thesis Project in Computer Science by Erik Hermansson and Charlotte Boddien.
+Automatic Text Summarization using pre-trained language models. 
+
+A Master Thesis Project in Computer Science by Erik Hermansson and Charlotte Boddien.
 
 Paper: https://hdl.handle.net/20.500.12380/300719
 
